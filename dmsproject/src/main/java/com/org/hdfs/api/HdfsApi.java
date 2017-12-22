@@ -6,7 +6,5 @@ public static void main(String[] args) {
 	System.out.println("1st commit made");
 	//comment
 	System.out.println("Added one line from windows");
-	
-	
 }
 }
